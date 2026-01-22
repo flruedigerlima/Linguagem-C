@@ -46,7 +46,7 @@ Nesta etapa, o foco foi dominar a **sintaxe** da linguagem C e os **fundamentos*
 Para manter a clareza, os códigos seguem um padrão:
 
 **Convenção de Nomes**: Os arquivos são nomeados conforme a ordem das aulas e listas de exercícios. 
-- **Exemplo**: Lista02_Ex05.c refere-se ao quinto exercício da segunda lista proposta.
+- **Exemplo**: L6EXE13.c refere-se ao décimo terceiro exercício da sexta lista proposta.
 
 ## ⚠️ Observação Importante:
 -  No início de cada arquivo fonte (.c), você encontrará um comentário com a descrição do desafio. Essa obs introduz o problema que o código resolve, facilitando o entendimento do contexto sem a necessidade de consultar o PDF da lista original. Exemplo:
