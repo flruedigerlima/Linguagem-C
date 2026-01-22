@@ -1,6 +1,5 @@
-/* * Projeto: Calculadora Simples com Switch Case (Exercício 18 - Lista 7)
+/* Projeto: Calculadora Simples com Switch Case (Exercício 18 - Lista 7)
  * Disciplina: Algoritmos e Lógica de Programação Estruturada 1 - IFSP Bauru
- * Desempenho: Nota 8,70 / Frequência 95%
  * Descrição: Implementação de calculadora funcional utilizando estrutura Switch Case 
  * e loop de repetição Do-While para múltiplos cálculos.
  */

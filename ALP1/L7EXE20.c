@@ -1,6 +1,5 @@
-/* * Projeto: Classificação de Classe Eleitoral (Exercício 20 - Lista 7)
+/* Projeto: Classificação de Classe Eleitoral (Exercício 20 - Lista 7)
  * Disciplina: Algoritmos e Lógica de Programação Estruturada 1 - IFSP Bauru
- * Desempenho: Nota 8,70 / Frequência 95%
  * Descrição: Algoritmo que determina a classe eleitoral com base na idade, 
  * utilizando estruturas condicionais encadeadas e lógica de repetição.
  */

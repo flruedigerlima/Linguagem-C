@@ -1,6 +1,5 @@
-/* * Projeto: Tabuada Interativa (Exercício 13 - Lista 6)
+/* Projeto: Tabuada Interativa (Exercício 13 - Lista 6)
  * Disciplina: Algoritmos e Lógica de Programação Estruturada 1 - IFSP Bauru
- * Desempenho: Nota 8,70 / Frequência 95%
  * Descrição: Algoritmo que gera tabuadas dinâmicas conforme a escolha do usuário, 
  * com validação de continuidade (S/N).
  */
