@@ -1,4 +1,10 @@
 *.exe
 *.o
 *.out
+*.app
+*.obj
+
 .vscode/
+
+thumbs.db
+desktop.ini
