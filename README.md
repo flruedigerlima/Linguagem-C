@@ -1,6 +1,6 @@
 ![Banner C](assets/C-README.webp)
 
-# Linguagem C - ALP1 e ALP2 (Algoritmos e Lógica de programação)
+# Linguagem C - ALP1 e ALP2 (Algoritmos e Lógica de Programação Estruturada)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Período-2025-1d44b8?style=for-the-badge" alt="Período">
